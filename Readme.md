@@ -1,6 +1,6 @@
 # Sport Center Website
 
-## Canlı Site
+## Live Site
 [Sport Center](https://harmonious-elf-b4fcb8.netlify.app/)
 
 ## Features
