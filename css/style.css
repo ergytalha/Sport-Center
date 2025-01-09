@@ -728,7 +728,7 @@ hr {
     width: 40px;
     height: 40px;
     background-color: #355692a2;
-    clip-path: polygon(100% 0, 0 0, 100% 100%);
+    clip-path: polygon(100% 0, 0 0, 0% 100%);
 }
 
 #contact .container {
